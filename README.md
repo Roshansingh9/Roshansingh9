@@ -1,7 +1,7 @@
 ### 👋 Hi there! Welcome to My GitHub
 
 # 💫 About Me
-- 🧑‍💻 I'm **Roshan Kumar Singh** - I train models to understand humans. Ironically, I barely do.
+- 🧑‍💻 I'm **Roshan Kumar Singh** -building systems that learn in epochs, while I learn through chaos.
 - 🎓 B.Tech in CSE @ **KIIT University** (2022–2026) 
 - 🤖 Focused on **AI/ML**, **Generative AI**, **LLMs**, and **Full Stack Web Development**
 - 🧠 Exploring cutting-edge tools like **Groq**, **LangChain**, and **LLaMA 3.3**
