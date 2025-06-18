@@ -1,21 +1,40 @@
-### Hi there! Welcome to my GitHub page 👋
+### 👋 Hi there! Welcome to My GitHub
 
-# 💫 About Me:
-- 👋 I'm Roshan Kumar Singh
-- 👀 Passionate about AI/ML and Web Development
-- 🌱 Currently exploring Generative AI and LLMs
-- 🎓 Studying Computer Science and Engineering at Kalinga Institute of Industrial Technology
-- 📫 How to reach me: roshan.kr.singh9911@gmail.com
-- ⚡ Fun fact: Solved over 200 problems on Leetcode & GFG!
+# 💫 About Me
+- 🧑‍💻 I'm **Roshan Kumar Singh**
+- 🎓 B.Tech in CSE @ **KIIT University** (2022–2026) 
+- 🤖 Focused on **AI/ML**, **Generative AI**, **LLMs**, and **Full Stack Web Development**
+- 🧠 Exploring cutting-edge tools like **Groq**, **LangChain**, and **LLaMA 3.3**
+- 📫 Reach me: roshan.kr.singh9857@gmail.com | [WhatsApp](https://wa.me/917008768176)
+- 🧩 Fun Fact: Solved **200+ CP problems** | Global Rank **#398** (CodeChef Starters 167)
+
+---
 
 ## 🚀 Experience
-- Leading VeriStream, a real-time misinformation detection tool (Dec 2024 - Present)
-- Completed AWS Academy Cloud Foundations and Cloud Architecting courses (Oct 2024 - Dec 2024)
+- ☁️ **AICTE Cloud Virtual Internship**  
+  *Oct 2024 – Dec 2024*  
+  ✅ Completed **AWS Academy Cloud Foundations** & **Cloud Architecting**  
+  ✅ Demonstrated hands-on proficiency in **AWS cloud services** and architectural best practices
 
-## 🛠 Projects
-- AI-Powered Content Generation Platform
-- AI-Powered Personal Finance Assistant
-- Task Manager with Prioritization
+---
+
+## 🧠 Featured Projects
+
+### 🔍 [VeriStream](https://github.com/Roshansingh9/veristream) · [Live Demo](https://veristream-six.vercel.app)  
+_Real-time AI content analysis & misinformation detection platform_  
+**Tech:** React, Tailwind, FastAPI, LLaMA 3.3, Whisper, Google Safe Browsing  
+- Detects false content from live broadcasts, URLs, and audio in 40+ languages  
+- Achieved **95% accuracy** using multi-model architecture for misinformation detection  
+- Empowers journalists with real-time, multilingual credibility checks
+
+### 📊 [InsightGenei.ai](https://github.com/Roshansingh9/insightgenei.ai) · [Live Demo](https://insightgenei-ai.vercel.app)  
+_Natural Language → SQL AI engine for business analytics_  
+**Tech:** React, FastAPI, LangChain, PostgreSQL, Groq API  
+- Converts natural questions into SQL to analyze motorcycle sales data  
+- Uses **LLaMA 3.3 + LangChain** to generate precise queries  
+- Reached **90% query accuracy**, supports AI summaries & visual insights
+
+---
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -36,19 +55,28 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🏆 Achievements
-- Selected among 5.6K+ teams for the Truth Tell Hackathon
-- Global rank 398 in CodeChef Starters 167
-- Co-authored a pending publication on ML-based medicine recommendations
+- 🎯 Selected for **AICTE Cloud Internship**
+- 🚀 Global Rank **#398** in **CodeChef Starters 167**
+- 📈 200+ problems solved on **LeetCode** & **GFG**
+
+---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Roshansingh9&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Roshansingh9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshansingh9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshansingh9&show_icons=true&theme=tokyonight)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Roshansingh9&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshansingh9&layout=compact&theme=tokyonight)
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInProfile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
+---
+
+## 🌐 Connect With Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.roshansingh.live)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-kumar-singh-60b68a253/)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roshansingh9)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Roshansingh9)  
+[![GFG](https://img.shields.io/badge/GFG-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/roshan9911)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/roshansingh9)
 
 ---
 
 ⭐️ From [Roshansingh9](https://github.com/Roshansingh9)
+
