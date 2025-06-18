@@ -1,7 +1,7 @@
 ### 👋 Hi there! Welcome to My GitHub
 
 # 💫 About Me
-- 🧑‍💻 I'm **Roshan Kumar Singh**
+- 🧑‍💻 I'm **Roshan Kumar Singh** - I train models to understand humans. Ironically, I barely do.
 - 🎓 B.Tech in CSE @ **KIIT University** (2022–2026) 
 - 🤖 Focused on **AI/ML**, **Generative AI**, **LLMs**, and **Full Stack Web Development**
 - 🧠 Exploring cutting-edge tools like **Groq**, **LangChain**, and **LLaMA 3.3**
@@ -76,7 +76,10 @@ _Natural Language → SQL AI engine for business analytics_
 
 ---
 
-## 🌐 Connect With Me
+## 🔍 Still here? Either you're a recruiter or just deeply curious. Either way, let's connect.
+🔚 That’s all, folks. May your models converge, and your bugs stay undocumented.</br>
+📨 Wanna build something weird, chaotic, or maybe even useful?
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.roshansingh.live)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-kumar-singh-60b68a253/)  
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roshansingh9)  
@@ -89,5 +92,7 @@ _Natural Language → SQL AI engine for business analytics_
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshansingh9&label=Profile%20views&color=0e75b6&style=flat" alt="roshansingh9" /> </p>
 
+
+🧾 End of README. Time to Ctrl+C your expectations and Ctrl+V some reality.
 ⭐️ From [Roshansingh9](https://github.com/Roshansingh9)
 
