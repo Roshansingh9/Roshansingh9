@@ -6,7 +6,7 @@
 - 🤖 Focused on **AI/ML**, **Generative AI**, **LLMs**, and **Full Stack Web Development**
 - 🧠 Exploring cutting-edge tools like **Groq**, **LangChain**, and **LLaMA 3.3**
 - 📫 Reach me: roshan.kr.singh9857@gmail.com | [WhatsApp](https://wa.me/917008768176)
-- 🧩 Fun Fact: Solved **300+ CP problems** | Global Rank **#83** (CodeChef Starters 198)
+- 🧩 Fun Fact: Solved **300+ CP problems** | Global Contest Rank **#83** (CodeChef Starters 198)
 
 ---
 
