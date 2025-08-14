@@ -11,11 +11,10 @@
 ---
 
 ## 🚀 Experience
-- ☁️ **AICTE Cloud Virtual Internship**  
-  *Oct 2024 – Dec 2024*  
-  ✅ Completed **AWS Academy Cloud Foundations** & **Cloud Architecting**  
-  ✅ Demonstrated hands-on proficiency in **AWS cloud services** and architectural best practices
-
+- ☁️ **Amazon ML Summer School 2025**  
+  *Aug 2025 – Present*  
+  ✅ Selected from a competitive pool of over 60,000 applicants (top 5\% acceptance rate) to participate in an intensive 8-module program focused on foundational and advanced machine learning concepts, led by Amazon scientists.  
+  ✅ Mastered foundational and advanced concepts including Supervised Learning, Deep Neural Networks,Dimensionality Reduction, Unsupervised Learning, Sequential Learning, Reinforcement Learning, Generative AI, and Causal Inference.
 ---
 
 ## 🧠 Featured Projects
